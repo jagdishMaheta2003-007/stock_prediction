@@ -3,7 +3,6 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import requests
 import streamlit as st
-import yfinance as yf
 
 st.set_page_config(
     page_title="NIFTY / SENSEX Options Dashboard",
