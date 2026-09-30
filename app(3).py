@@ -7,6 +7,7 @@ import requests
 import pandas as pd
 import streamlit as st
 import yfinance as yf
+import feedparser
 
 st.set_page_config(
     page_title="NIFTY / SENSEX Options Dashboard",
